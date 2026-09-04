@@ -13,6 +13,10 @@ The project focuses on three luxury compact SUVs:
 Vehicle listings were collected directly from the auto.dev API, cleaned and analyzed in Python, and used to build regression models for estimating expected listing prices.
 The final step turns the analysis into a simple **CPO Finder**, which allows users to filter real listings based on their preferred brand, budget, mileage, and model year.
 
+## Presentation
+The final project presentation is available here:
+📊 **[View Final Presentation](CSSprojectpresentation.pdf)**
+- **`Css bootcamp project.pdf`** — Final project presentation
 
 ## Research Question
 **Can basic vehicle characteristics predict the listing price of Certified Pre-Owned luxury SUVs in the San Diego market?**
@@ -151,6 +155,7 @@ This project has several important limitations:
 ```text
 .
 ├── CPO_FilterProject.ipynb
+├── CSS bootcamp project.pdf
 ├── all_cars.csv
 ├── all_cars_clean.csv
 └── README.md
